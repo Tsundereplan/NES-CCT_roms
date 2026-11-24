@@ -1,0 +1,5 @@
+This is a harmless capability test file created by the Termux Plus build assistant.
+
+It confirms that the GitHub plugin can write file contents to your repositories.
+
+You can safely delete this file and the branch "write-test-termux-plus" at any time.
